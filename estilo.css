@@ -1,0 +1,58 @@
+h2.titulo{
+    background-color: gold;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+p.menu{
+    display: inline;
+    background-color: skyblue;
+    
+}
+
+div.menu1{
+    display: inline;
+    background-color: skyblue;
+    padding-top: 20px;
+}
+
+div.div1{
+    border-top: blue 15px solid;
+    border-bottom: blue 15px solid;
+}
+
+p.parrafo1 {
+    background-color: white;
+    color: blue;
+}
+
+img.SteveTrabajos {
+    float: left;
+}
+
+p.parrafo2{
+    background-color: skyblue;
+    color: red;
+    padding: 15px;
+}
+
+div.div2{
+    border-top: red 15px solid;
+    border-bottom: red 15px solid;
+}
+
+img.pcmanzana{
+    float: right;
+}
+
+footer{
+    background-color: sandybrown;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+span{
+    background-color: yellow;
+}

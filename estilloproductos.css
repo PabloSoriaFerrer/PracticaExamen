@@ -1,0 +1,38 @@
+div.menu1{
+    display: inline;
+    background-color: skyblue;
+    padding-top: 20px;
+}
+
+h2.titulo{
+    background-color: gold;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+
+body{
+    background-color: gold;
+}
+
+div.lista{
+    background-color: white;
+}
+
+ul {
+    list-style-type: katakana-iroha;
+    list-style-position: inside;
+}
+
+footer{
+    background-color: sandybrown;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+span{
+    background-color: yellow;
+}
